@@ -1164,6 +1164,7 @@ html {
     display: none;
   }
   .right-wrapper {
+    position: relative;
     width: 435px;
     top: 80px;
     right: -15px;
